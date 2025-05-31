@@ -1,0 +1,7 @@
+﻿  MathGame.cpp
+C:\Users\G.B\source\repos\MathGame\MathGame.cpp(107): warning C4715: 'corect_result1': not all control paths return a value
+C:\Users\G.B\source\repos\MathGame\MathGame.cpp(162): warning C4715: 'quetion_level': not all control paths return a value
+C:\Users\G.B\source\repos\MathGame\MathGame.cpp(144): warning C4715: 'operation_type': not all control paths return a value
+C:\Users\G.B\source\repos\MathGame\MathGame.cpp(89): warning C4715: 'typeOperate': not all control paths return a value
+C:\Users\G.B\source\repos\MathGame\MathGame.cpp(67): warning C4715: 'randy': not all control paths return a value
+  MathGame.vcxproj -> C:\Users\G.B\source\repos\MathGame\x64\Debug\MathGame.exe

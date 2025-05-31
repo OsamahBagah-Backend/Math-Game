@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bad72ef7-3270-466c-9b64-2042569c9b8c": {
+      "ProjectGuid": "bad72ef7-3270-466c-9b64-2042569c9b8c",
+      "DisplayName": "MathGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
